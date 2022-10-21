@@ -22,6 +22,7 @@ Provides classes for generating and analyzing complex climate networks.
 #
 #  Import essential packages
 #
+# João was here
 
 #  Import NumPy for the array object and fast numerics
 import numpy as np
